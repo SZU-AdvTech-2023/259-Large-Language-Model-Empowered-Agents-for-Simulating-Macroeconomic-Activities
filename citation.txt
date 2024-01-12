@@ -1,0 +1,15 @@
+@article{REPO259,
+    author = "{Li}, Nian and {Gao}, Chen and {Li}, Yong and {Liao}, Qingmin",
+    adsnote = "Provided by the SAO/NASA Astrophysics Data System",
+    adsurl = "https://ui.adsabs.harvard.edu/abs/2023arXiv231010436L",
+    archiveprefix = "arXiv",
+    doi = "10.48550/arXiv.2310.10436",
+    eid = "arXiv:2310.10436",
+    eprint = "2310.10436",
+    journal = "arXiv e-prints",
+    keywords = "Computer Science - Artificial Intelligence",
+    pages = "arXiv:2310.10436",
+    primaryclass = "cs.AI",
+    title = "{{Large Language Model-Empowered Agents for Simulating Macroeconomic Activities}}",
+    year = "2023"
+}
